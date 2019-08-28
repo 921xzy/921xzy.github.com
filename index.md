@@ -1,5 +1,4 @@
 ## Welcome to GitHub Pages
-## Welcome to GitHub Pages
 ### 个人信息
 #### 姓名：徐召阳
 #### 学历：学士学位
